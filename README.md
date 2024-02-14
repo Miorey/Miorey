@@ -1,3 +1,7 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Miorey" alt="Miorey"/> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miorey&theme=dark&layout=compact&hide=roff,assembly,yacc,objective-a)](https://github.com/Miorey/github-readme-stats)
+
 ### Speak, friend, and enter. 🧙
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miorey&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
