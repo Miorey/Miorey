@@ -1,5 +1,5 @@
 ### Speak, friend, and enter. 🧙
-![Miorey GitHub stats](https://github-readme-stats.vercel.app/api?username=Miorey&show_icons=true&theme=radical)
+![Miorey GitHub stats](https://github-readme-stats.vercel.app/api?username=Miorey&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
