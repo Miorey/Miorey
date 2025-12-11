@@ -1,7 +1,5 @@
 ### Speak, friend, and enter. 🧙
-![Miorey GitHub stats](https://github-readme-stats.vercel.app/api?username=Miorey&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Miorey GitHub stats](https://github-readme-stats.vercel.app/api?username=Miorey&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Miorey/Miorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
